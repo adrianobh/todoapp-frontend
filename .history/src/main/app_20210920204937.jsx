@@ -1,0 +1,1 @@
+import 'modules/bootstrap/dist/bootstrap.min.js'
